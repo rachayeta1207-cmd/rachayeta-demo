@@ -1,3 +1,4 @@
 # rachayeta-demo
-This is my first Git Repository
-Author-Rachayeta Das
+This is my first Git Repository.
+<br>
+Author-Rachayeta Das.
